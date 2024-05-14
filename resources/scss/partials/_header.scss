@@ -1,0 +1,13 @@
+header{
+
+    .sa_menu{
+        background-color: #303030;
+        a{
+            color:white;
+            &:hover{
+                color: rgb(255, 203, 59);
+                transition: all .3s ease-in;
+            }
+        }
+    }
+}
