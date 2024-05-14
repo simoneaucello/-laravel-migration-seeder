@@ -9,7 +9,7 @@
     <!-- Styles -->
     @vite('resources/js/app.js')
 
-    <title>Template</title>
+    <title>Station | @yield('title')</title>
 </head>
 
 <body>

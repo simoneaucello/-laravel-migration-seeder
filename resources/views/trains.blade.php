@@ -1,5 +1,9 @@
 @extends('layout.main')
 
+@section('title')
+    Trains
+@endsection
+
 @section('content')
     <table class="table container my-5">
         <thead>
